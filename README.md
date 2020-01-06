@@ -3,3 +3,4 @@
 How to read and write an image.
 ## [Lesson 2 Fourier Transform](https://nbviewer.jupyter.org/github/xuemeic/Image-Processing/blob/master/nb/L2Fourier.ipynb)
 1D and 2D Discrete Fourier Transform and their relationship.
+## [Lesson 3 Convolution](https://nbviewer.jupyter.org/github/xuemeic/Image-Processing/blob/master/nb/L3Convolution.ipynb)
